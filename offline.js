@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1644603399,
+	"version": 1653569538,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/play-sheet1.png",
 		"images/play-sheet2.png",
 		"images/guide-sheet0.png",
+		"images/text_score.png",
 		"media/collect.ogg",
 		"media/explosion.ogg",
 		"media/canon.ogg",
